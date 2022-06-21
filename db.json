@@ -7,5 +7,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "session": {
+    "session_key": "111222333444"
   }
 }
