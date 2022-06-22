@@ -10,5 +10,12 @@
   },
   "session": {
     "session_key": "111222333444"
+  },
+  "loginerror": {
+    "data": {},
+    "status": {
+      "code": 93,
+      "message": "Wrong username/password"
+    }
   }
 }
